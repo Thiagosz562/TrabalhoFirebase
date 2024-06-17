@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842341057407",
+    "project_id": "loginapp-1850d",
+    "storage_bucket": "loginapp-1850d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842341057407:android:64295b7d33bc9ee0ed104a",
+        "android_client_info": {
+          "package_name": "com.example.loginfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTm1E-xRwgcssId2vlRe_lWALcvky33UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
